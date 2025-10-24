@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,AzTV HD
+https://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:-1,Mədəniyyet TV HD
+https://str.yodacdn.net/medeniyyet/index.m3u8
+#EXTINF:-1,ATV Azərbaycan HD
+https://str.yodacdn.net/atv/index.m3u8
+#EXTINF:-1,İctimai TV HD
+https://str.yodacdn.net/ictimai/index.m3u8
+#EXTINF:-1,ARB 24 HD
+https://str.yodacdn.net/arb24/index.m3u8
+#EXTINF:-1,Real TV HD
+https://str.yodacdn.net/real/index.m3u8
+#EXTINF:-1,Space TV HD
+https://str.yodacdn.net/space/index.m3u8
+#EXTINF:-1,CBC HD
+https://str.yodacdn.net/cbc/index.m3u8
+#EXTINF:-1,CBC Sport HD
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
