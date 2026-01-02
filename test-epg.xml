@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<tv>
+  <channel id="aile tv.AZ">
+    <display-name>AİLETV</display-name>
+    <icon src="https://example.com/faridtv-logo.png"/>
+  </channel>
+  <programme start="20260102072109 +0000" stop="20260102092109 +0000" channel="FaridTV.az">
+    <title lang="az">FaridTV Canlı Yayını</title>
+    <desc lang="az">AİLE IPTV haqqında məlumat: Bu kanal əyləncəli proqramlar, musiqi və canlı verilişlər təqdim edir.</desc>
+  </programme>
+  <programme start="20260102092109 +0000" stop="20260102112109 +0000" channel="FaridTV.az">
+    <title lang="az">Musiqi Klipəri</title>
+    <desc lang="az">Populyar Azərbaycan və xarici musiqi klipəri.</desc>
+  </programme>
+</tv>
